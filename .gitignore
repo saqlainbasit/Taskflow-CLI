@@ -1,0 +1,23 @@
+# Compiled binaries
+*.exe
+*.out
+taskflow
+Taskflow-CLI
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
